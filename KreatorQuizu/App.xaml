@@ -1,0 +1,11 @@
+﻿<Application x:Class="KreatorQuizu.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KreatorQuizu"
+             xmlns:vm="clr-namespace:KreatorQuizu.ViewModels"
+             xmlns:v="clr-namespace:KreatorQuizu"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+
+    </Application.Resources>
+</Application>
